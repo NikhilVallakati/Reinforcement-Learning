@@ -1,0 +1,3 @@
+In Boxing, two boxers (one white and the other black) indulge in punching and escaping from the punch when they get close to each other
+Qlearning with Epsilon Greedy-Policy is implemented defining rewards, state and action space
+Different parameters (Alpha,Gamma) and Epsilon policy combinations are experimented to achieve best performance vs episode phenomena
